@@ -1,2 +1,3 @@
 # Mysql
 Some interface of mysql written by python
+用Python的mysqldb包来操作mysql数据库对于直接在mysql中操作要方便的多，里面的脚本包含了一些用Python操作mysql的基本操作，并考虑了一些键重复的情况下如何插入与更新，具体的使用还要配合具体的数据库schema。
